@@ -1,0 +1,20 @@
+Parameters:
+	defaultSE:
+          eBay.	 [single]
+        tab1:
+          on.
+          off.
+        tab2:
+          on.
+          off.
+        tab3:
+          on.
+          off.
+	tab4:
+          on.
+          off.
+	updates:
+           updateman.  [single]
+        performance:
+           yes.  [single]
+          

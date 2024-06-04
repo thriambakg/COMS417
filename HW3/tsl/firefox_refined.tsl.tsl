@@ -1,0 +1,172 @@
+
+Test Case 1  		<single>
+   defaultSE :  eBay
+
+
+Test Case 2  		<single>
+   updates :  updateman
+
+
+Test Case 3  		<single>
+   performance :  yes
+
+
+Test Case 4  		(Key = 0.1.1.1.1.0.0.)
+   defaultSE   :  <n/a>
+   tab1        :  on
+   tab2        :  on
+   tab3        :  on
+   tab4        :  on
+   updates     :  <n/a>
+   performance :  <n/a>
+
+
+Test Case 5  		(Key = 0.1.1.1.2.0.0.)
+   defaultSE   :  <n/a>
+   tab1        :  on
+   tab2        :  on
+   tab3        :  on
+   tab4        :  off
+   updates     :  <n/a>
+   performance :  <n/a>
+
+
+Test Case 6  		(Key = 0.1.1.2.1.0.0.)
+   defaultSE   :  <n/a>
+   tab1        :  on
+   tab2        :  on
+   tab3        :  off
+   tab4        :  on
+   updates     :  <n/a>
+   performance :  <n/a>
+
+
+Test Case 7  		(Key = 0.1.1.2.2.0.0.)
+   defaultSE   :  <n/a>
+   tab1        :  on
+   tab2        :  on
+   tab3        :  off
+   tab4        :  off
+   updates     :  <n/a>
+   performance :  <n/a>
+
+
+Test Case 8  		(Key = 0.1.2.1.1.0.0.)
+   defaultSE   :  <n/a>
+   tab1        :  on
+   tab2        :  off
+   tab3        :  on
+   tab4        :  on
+   updates     :  <n/a>
+   performance :  <n/a>
+
+
+Test Case 9  		(Key = 0.1.2.1.2.0.0.)
+   defaultSE   :  <n/a>
+   tab1        :  on
+   tab2        :  off
+   tab3        :  on
+   tab4        :  off
+   updates     :  <n/a>
+   performance :  <n/a>
+
+
+Test Case 10 		(Key = 0.1.2.2.1.0.0.)
+   defaultSE   :  <n/a>
+   tab1        :  on
+   tab2        :  off
+   tab3        :  off
+   tab4        :  on
+   updates     :  <n/a>
+   performance :  <n/a>
+
+
+Test Case 11 		(Key = 0.1.2.2.2.0.0.)
+   defaultSE   :  <n/a>
+   tab1        :  on
+   tab2        :  off
+   tab3        :  off
+   tab4        :  off
+   updates     :  <n/a>
+   performance :  <n/a>
+
+
+Test Case 12 		(Key = 0.2.1.1.1.0.0.)
+   defaultSE   :  <n/a>
+   tab1        :  off
+   tab2        :  on
+   tab3        :  on
+   tab4        :  on
+   updates     :  <n/a>
+   performance :  <n/a>
+
+
+Test Case 13 		(Key = 0.2.1.1.2.0.0.)
+   defaultSE   :  <n/a>
+   tab1        :  off
+   tab2        :  on
+   tab3        :  on
+   tab4        :  off
+   updates     :  <n/a>
+   performance :  <n/a>
+
+
+Test Case 14 		(Key = 0.2.1.2.1.0.0.)
+   defaultSE   :  <n/a>
+   tab1        :  off
+   tab2        :  on
+   tab3        :  off
+   tab4        :  on
+   updates     :  <n/a>
+   performance :  <n/a>
+
+
+Test Case 15 		(Key = 0.2.1.2.2.0.0.)
+   defaultSE   :  <n/a>
+   tab1        :  off
+   tab2        :  on
+   tab3        :  off
+   tab4        :  off
+   updates     :  <n/a>
+   performance :  <n/a>
+
+
+Test Case 16 		(Key = 0.2.2.1.1.0.0.)
+   defaultSE   :  <n/a>
+   tab1        :  off
+   tab2        :  off
+   tab3        :  on
+   tab4        :  on
+   updates     :  <n/a>
+   performance :  <n/a>
+
+
+Test Case 17 		(Key = 0.2.2.1.2.0.0.)
+   defaultSE   :  <n/a>
+   tab1        :  off
+   tab2        :  off
+   tab3        :  on
+   tab4        :  off
+   updates     :  <n/a>
+   performance :  <n/a>
+
+
+Test Case 18 		(Key = 0.2.2.2.1.0.0.)
+   defaultSE   :  <n/a>
+   tab1        :  off
+   tab2        :  off
+   tab3        :  off
+   tab4        :  on
+   updates     :  <n/a>
+   performance :  <n/a>
+
+
+Test Case 19 		(Key = 0.2.2.2.2.0.0.)
+   defaultSE   :  <n/a>
+   tab1        :  off
+   tab2        :  off
+   tab3        :  off
+   tab4        :  off
+   updates     :  <n/a>
+   performance :  <n/a>
+

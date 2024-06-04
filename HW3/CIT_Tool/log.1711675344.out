@@ -1,0 +1,198 @@
+program starting at temperature 0.2
+random seed 1711675344
+temperature decrement factor 0.9998
+t   k   v  TCount  
+7 7 17 384
+
+ 2 2 2 2 2 4 3
+
+  0  1
+  2  3
+  4  5
+  6  7
+  8  9
+  10  11  12  13
+  14  15  16
+
++++++++++++++++++++++++++++++++++++++++++++
+-----------New Run----------------
+current tabsize 19074
+ tcount-curcount 0
+Covered = 384
+successful annealing 
+covered = 384
+probtrue 0 probfalse 0
+good moves 0 no moves 0
+percent accept for first temp = -nan
+final temp 0.2
+CPU Time 0.001287
+Total CPU Time 0.001287
+-----------New Run----------------
+current tabsize 9728
+ tcount-curcount 0
+Covered = 384
+successful annealing 
+covered = 384
+probtrue 0 probfalse 0
+good moves 0 no moves 0
+percent accept for first temp = -nan
+final temp 0.2
+CPU Time 0.000766
+Total CPU Time 0.002053
+-----------New Run----------------
+current tabsize 5055
+ tcount-curcount 0
+Covered = 384
+successful annealing 
+covered = 384
+probtrue 0 probfalse 0
+good moves 0 no moves 0
+percent accept for first temp = -nan
+final temp 0.2
+CPU Time 0.000406
+Total CPU Time 0.002459
+-----------New Run----------------
+current tabsize 2719
+ tcount-curcount 1
+Covered = 383
+successful annealing 
+covered = 384
+probtrue 0 probfalse 0
+good moves 208 no moves 0
+percent accept for first temp = -nan
+final temp 0.2
+CPU Time 0.000199
+Total CPU Time 0.002658
+-----------New Run----------------
+current tabsize 1551
+ tcount-curcount 7
+Covered = 377
+successful annealing 
+covered = 384
+probtrue 0 probfalse 11
+good moves 657 no moves 0
+percent accept for first temp = 0
+final temp 0.2
+CPU Time 0.000252
+Total CPU Time 0.00291
+-----------New Run----------------
+current tabsize 967
+ tcount-curcount 22
+Covered = 362
+successful annealing 
+covered = 384
+probtrue 3 probfalse 237
+good moves 2191 no moves 0
+percent accept for first temp = 0.0125
+final temp 0.2
+CPU Time 0.000974
+Total CPU Time 0.003884
+-----------New Run----------------
+current tabsize 675
+ tcount-curcount 52
+Covered = 332
+successful annealing 
+covered = 384
+probtrue 2 probfalse 437
+good moves 1244 no moves 0
+percent accept for first temp = 0.00455581
+final temp 0.2
+CPU Time 0.000703
+Total CPU Time 0.004587
+-----------New Run----------------
+current tabsize 529
+ tcount-curcount 49
+Covered = 335
+successful annealing 
+covered = 384
+probtrue 6 probfalse 1127
+good moves 1367 no moves 0
+percent accept for first temp = 0.00529568
+final temp 0.19996
+CPU Time 0.001673
+Total CPU Time 0.00626
+-----------New Run----------------
+current tabsize 456
+ tcount-curcount 37
+Covered = 347
+successful annealing 
+covered = 384
+probtrue 8 probfalse 1491
+good moves 1001 no moves 0
+percent accept for first temp = 0.00533689
+final temp 0.198724
+CPU Time 0.03284
+Total CPU Time 0.0391
+-----------New Run----------------
+current tabsize 419
+ tcount-curcount 28
+Covered = 356
+successful annealing 
+covered = 384
+probtrue 14 probfalse 1780
+good moves 706 no moves 0
+percent accept for first temp = 0.00780379
+final temp 0.184843
+CPU Time 0.366504
+Total CPU Time 0.405604
+-----------New Run----------------
+current tabsize 401
+ tcount-curcount 17
+Covered = 367
+successful annealing 
+covered = 384
+probtrue 18 probfalse 1964
+good moves 518 no moves 0
+percent accept for first temp = 0.00908174
+final temp 0.158142
+CPU Time 1.09029
+Total CPU Time 1.49589
+-----------New Run----------------
+current tabsize 392
+ tcount-curcount 8
+Covered = 376
+successful annealing 
+covered = 384
+probtrue 13 probfalse 2197
+good moves 290 no moves 0
+percent accept for first temp = 0.00588235
+final temp 0.140398
+CPU Time 1.65202
+Total CPU Time 3.14791
+-----------New Run----------------
+current tabsize 387
+ tcount-curcount 5
+Covered = 379
+successful annealing 
+covered = 384
+probtrue 14 probfalse 2258
+good moves 228 no moves 0
+percent accept for first temp = 0.00616197
+final temp 0.126377
+CPU Time 2.13381
+Total CPU Time 5.28172
+-----------New Run----------------
+current tabsize 385
+ tcount-curcount 2
+Covered = 382
+successful annealing 
+covered = 384
+probtrue 17 probfalse 2334
+good moves 149 no moves 0
+percent accept for first temp = 0.00723097
+final temp 0.121106
+CPU Time 2.33207
+Total CPU Time 7.61379
+-----------New Run----------------
+current tabsize 384
+ tcount-curcount 1
+Covered = 383
+successful annealing 
+covered = 384
+probtrue 25 probfalse 2316
+good moves 159 no moves 0
+percent accept for first temp = 0.0106792
+final temp 0.110394
+CPU Time 2.76691
+Total CPU Time 10.3807
+Total CPU Time 10.3807
